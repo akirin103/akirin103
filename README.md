@@ -5,5 +5,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirin103&count_private=true&hide=php,css&langs_count=3" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirin103&count_private=true&hide=php,css&langs_count=5" />
 </a>
